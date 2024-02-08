@@ -30,6 +30,7 @@
     'username' => 'ajumalsha07@gmail.com',
     'password' => 'Ajum@l150403,
     'port' => '587',
+    'SMTPDebug' => 2,
   );
   
 
